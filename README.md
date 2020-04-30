@@ -3,6 +3,7 @@
  
 ## Run
 
+ Before running the script you will need to create a directory called **saved_screenshots** from where you run the script.
 ```
  python prnt_downloader.py [i]
 ```
